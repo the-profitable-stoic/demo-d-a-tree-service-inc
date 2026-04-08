@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "D & A Tree Service Inc",
+    "phone": "+16612014306",
+    "category": "tree removal",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Bakersfield's Trusted Tree Removal Experts",
+      "heroSubline": "D & A Tree Service Inc. provides safe, efficient, and affordable tree removal services. Protecting your property and community since 2012.",
+      "aboutTitle": "Dedicated to Safe and Reliable Tree Care",
+      "aboutText": [
+        "D & A Tree Service Inc. was founded on the principle of providing Bakersfield with dependable tree removal services. We saw a need for a company that prioritizes safety and environmental responsibility, especially given our region's dry climate and susceptibility to wildfires.",
+        "Our approach is simple: assess each job thoroughly, communicate openly with our clients, and execute the work with precision. We value integrity and professionalism above all else, ensuring every project is completed to the highest standards.",
+        "We're deeply committed to the Bakersfield community. We actively participate in local initiatives to promote responsible tree care and fire prevention, understanding the importance of preserving our city's natural beauty while safeguarding our homes and businesses."
+      ],
+      "valueProps": [
+        {
+          "title": "Safety First",
+          "description": "Rigorous safety protocols protect your property and our team."
+        },
+        {
+          "title": "Experienced Crew",
+          "description": "Highly trained arborists and technicians with years of experience."
+        },
+        {
+          "title": "Affordable Rates",
+          "description": "Competitive pricing without compromising quality or safety."
+        },
+        {
+          "title": "Full Insurance",
+          "description": "Comprehensive insurance coverage for your peace of mind."
+        }
+      ],
+      "ctaHeadline": "Need Tree Removal Services?",
+      "ctaSubline": "Get a free, no-obligation quote from D & A Tree Service Inc. today!"
+    },
+    "services": [
+      {
+        "slug": "tree-removal",
+        "name": "Tree Removal",
+        "shortDescription": "Safe and efficient tree removal for any size or species.",
+        "description": "D & A Tree Service Inc. offers comprehensive tree removal services tailored to the specific needs of Bakersfield properties. Whether you have a hazardous tree threatening your home, a diseased tree impacting the health of your landscape, or simply need to clear space for new construction, our experienced team can handle the job safely and efficiently.\n\nWe understand the unique challenges of tree removal in Bakersfield, from navigating tight spaces in established neighborhoods like Oleander-Sunset to dealing with the intense summer heat. Our crew utilizes specialized equipment and proven techniques to minimize disruption and ensure a smooth process. We also prioritize responsible disposal of tree debris, recycling whenever possible to reduce our environmental impact.\n\nFrom initial assessment to complete removal and cleanup, D & A Tree Service Inc. provides reliable and professional tree removal services you can trust. We're committed to protecting your property and ensuring the safety of our community.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate the tree's condition, location, and potential hazards.",
+          "Step 2: Planning & Preparation - We develop a detailed removal plan and obtain any necessary permits.",
+          "Step 3: Safe Removal - Our skilled team uses industry-leading techniques to remove the tree safely and efficiently.",
+          "Step 4: Debris Removal & Cleanup - We haul away all debris and leave your property clean and tidy."
+        ],
+        "benefits": [
+          "Removes hazardous or diseased trees",
+          "Prevents property damage",
+          "Eliminates safety risks",
+          "Creates space for new landscaping"
+        ],
+        "faq": [
+          {
+            "question": "How much does tree removal cost?",
+            "answer": "The cost depends on the size, species, location, and complexity of the removal. We offer free estimates to provide an accurate price."
+          },
+          {
+            "question": "Do I need a permit to remove a tree?",
+            "answer": "It depends on the city and the size/species of the tree. We can help you determine if a permit is required and assist with the application process."
+          },
+          {
+            "question": "What happens to the tree after it's removed?",
+            "answer": "We prioritize responsible disposal, recycling wood chips and logs whenever possible. We can also leave firewood for you upon request."
+          }
+        ]
+      },
+      {
+        "slug": "stump-grinding",
+        "name": "Stump Grinding",
+        "shortDescription": "Complete stump removal to reclaim your yard's beauty and functionality.",
+        "description": "After tree removal, the remaining stump can be an eyesore, a tripping hazard, and a breeding ground for pests. D & A Tree Service Inc. provides professional stump grinding services to completely remove unsightly stumps and restore the beauty and functionality of your Bakersfield landscape.\n\nOur specialized stump grinding equipment can handle stumps of any size and in any location, even in tight spaces. We grind the stump below ground level, allowing you to replant grass, install landscaping, or build on the area. We carefully remove the grindings and fill the hole, leaving a smooth and even surface.\n\nWhether you're dealing with an old stump from a previous tree removal or need to remove a fresh stump, D & A Tree Service Inc. offers efficient and affordable stump grinding services to transform your yard.",
+        "process": [
+          "Step 1: Stump Assessment - We evaluate the stump's size, location, and surrounding area.",
+          "Step 2: Grinding - We use specialized equipment to grind the stump below ground level.",
+          "Step 3: Debris Removal - We remove all grindings and debris from the site.",
+          "Step 4: Site Restoration - We fill the hole with soil and level the area for replanting or landscaping."
+        ],
+        "benefits": [
+          "Eliminates unsightly stumps",
+          "Removes tripping hazards",
+          "Prevents pest infestations",
+          "Restores yard space"
+        ],
+        "faq": [
+          {
+            "question": "How long does stump grinding take?",
+            "answer": "Most stump grinding jobs can be completed in a few hours, depending on the size and accessibility of the stump."
+          },
+          {
+            "question": "Will stump grinding damage my lawn?",
+            "answer": "We take precautions to minimize any impact on your lawn. We carefully remove the grindings and restore the area to its original condition."
+          },
+          {
+            "question": "Can you grind stumps near fences or buildings?",
+            "answer": "Yes, our equipment is designed to operate in tight spaces and near obstacles. We take extra care to protect surrounding structures."
+          }
+        ]
+      },
+      {
+        "slug": "tree-trimming",
+        "name": "Tree Trimming",
+        "shortDescription": "Enhance the health and appearance of your trees with professional trimming.",
+        "description": "Regular tree trimming is essential for maintaining the health, safety, and beauty of your trees. D & A Tree Service Inc. provides expert tree trimming services to promote healthy growth, remove dead or diseased branches, and improve the overall appearance of your Bakersfield landscape.\n\nOur certified arborists understand the specific needs of different tree species in our area. We use proper pruning techniques to encourage strong growth, improve air circulation, and reduce the risk of disease. We also remove any branches that pose a safety hazard to your home or power lines, which is especially important in neighborhoods like Seven Oaks with mature trees.\n\nFrom routine maintenance to corrective pruning, D & A Tree Service Inc. offers comprehensive tree trimming services to keep your trees healthy and vibrant.",
+        "process": [
+          "Step 1: Tree Assessment - We evaluate the tree's health, structure, and trimming needs.",
+          "Step 2: Pruning Plan - We develop a customized pruning plan to achieve your goals.",
+          "Step 3: Safe Trimming - Our skilled team uses industry-leading techniques to trim the tree safely and effectively.",
+          "Step 4: Debris Removal & Cleanup - We haul away all debris and leave your property clean and tidy."
+        ],
+        "benefits": [
+          "Promotes healthy tree growth",
+          "Improves tree appearance",
+          "Removes dead or diseased branches",
+          "Reduces safety hazards"
+        ],
+        "faq": [
+          {
+            "question": "How often should I trim my trees?",
+            "answer": "The frequency of trimming depends on the species, age, and health of the tree. Most trees benefit from trimming every 1-3 years."
+          },
+          {
+            "question": "What is the best time of year to trim trees?",
+            "answer": "The best time to trim most trees is during the dormant season (late fall or winter). However, some species can be trimmed at other times of the year."
+          },
+          {
+            "question": "Can you trim trees near power lines?",
+            "answer": "Yes, we are trained and equipped to safely trim trees near power lines. We work closely with utility companies to ensure the safety of our crew and your property."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-tree-service",
+        "name": "Emergency Tree Service",
+        "shortDescription": "24/7 emergency tree removal and storm damage cleanup.",
+        "description": "When a storm hits Bakersfield, trees can become a serious hazard. D & A Tree Service Inc. offers 24/7 emergency tree service to respond quickly to storm damage, fallen trees, and other urgent situations. We understand the urgency of these situations and prioritize safety above all else.\n\nOur experienced team is equipped to handle any emergency, from removing fallen trees blocking roads to stabilizing damaged trees threatening your home. We work quickly and efficiently to minimize further damage and restore safety to your property.\n\nWhether a sudden windstorm or an unexpected tree fall, D & A Tree Service Inc. is here to provide reliable emergency tree service when you need it most.",
+        "process": [
+          "Step 1: Emergency Response - We respond quickly to your call and assess the situation.",
+          "Step 2: Hazard Assessment - We identify and mitigate any immediate safety hazards.",
+          "Step 3: Safe Removal - Our skilled team uses industry-leading techniques to remove the tree safely and efficiently.",
+          "Step 4: Debris Removal & Cleanup - We haul away all debris and leave your property safe and secure."
+        ],
+        "benefits": [
+          "24/7 emergency response",
+          "Safe removal of fallen or damaged trees",
+          "Storm damage cleanup",
+          "Minimizes further property damage"
+        ],
+        "faq": [
+          {
+            "question": "What should I do if a tree falls on my house?",
+            "answer": "Call us immediately! We will assess the situation and take steps to safely remove the tree and prevent further damage."
+          },
+          {
+            "question": "How quickly can you respond to an emergency?",
+            "answer": "We strive to respond to emergencies as quickly as possible, typically within a few hours, depending on the location and severity of the situation."
+          },
+          {
+            "question": "Do you work with insurance companies?",
+            "answer": "Yes, we can work with your insurance company to process your claim and ensure you receive the coverage you deserve."
+          }
+        ]
+      },
+      {
+        "slug": "land-clearing",
+        "name": "Land Clearing",
+        "shortDescription": "Efficient land clearing services for construction and development projects.",
+        "description": "D & A Tree Service Inc. provides comprehensive land clearing services for construction and development projects in Bakersfield and surrounding areas. We understand the importance of preparing your land efficiently and safely, and we have the equipment and expertise to handle any size project.\n\nOur land clearing services include tree removal, brush removal, stump grinding, and debris hauling. We work closely with developers and contractors to ensure the land is cleared according to their specifications and timelines. We are familiar with local regulations and permitting requirements, ensuring a smooth and compliant process.\n\nWhether you're building a new home, developing a commercial property, or clearing land for agricultural purposes, D & A Tree Service Inc. offers reliable and efficient land clearing services to get your project off to a strong start.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate the land and identify any trees, brush, or obstacles that need to be removed.",
+          "Step 2: Clearing Plan - We develop a detailed clearing plan that meets your specific needs and requirements.",
+          "Step 3: Safe Clearing - Our skilled team uses industry-leading equipment and techniques to clear the land safely and efficiently.",
+          "Step 4: Debris Removal & Hauling - We haul away all debris and leave the land clean and ready for construction."
+        ],
+        "benefits": [
+          "Prepares land for construction or development",
+          "Removes trees, brush, and obstacles",
+          "Efficient and safe clearing process",
+          "Compliant with local regulations"
+        ],
+        "faq": [
+          {
+            "question": "What permits are required for land clearing?",
+            "answer": "The permits required vary depending on the location and the size of the project. We can help you determine which permits are needed and assist with the application process."
+          },
+          {
+            "question": "How long does land clearing take?",
+            "answer": "The duration of land clearing depends on the size and complexity of the project. We provide realistic timelines and strive to complete the work as quickly as possible."
+          },
+          {
+            "question": "Do you offer environmentally responsible land clearing?",
+            "answer": "Yes, we prioritize environmentally responsible practices, such as recycling wood chips and minimizing soil erosion."
+          }
+        ]
+      },
+      {
+        "slug": "tree-risk-assessment",
+        "name": "Tree Risk Assessment",
+        "shortDescription": "Professional assessment of tree health and potential hazards.",
+        "description": "Protect your property and ensure the safety of your trees with D & A Tree Service Inc.'s professional tree risk assessment services. Our certified arborists conduct thorough inspections to identify potential hazards, assess tree health, and recommend appropriate measures to mitigate risks.\n\nWe evaluate factors such as tree structure, branch condition, root health, and surrounding environment to determine the likelihood of tree failure. We provide detailed reports with clear recommendations for pruning, cabling, bracing, or removal, helping you make informed decisions about your tree care.\n\nWhether you're concerned about a specific tree or want to assess the overall health of your landscape, D & A Tree Service Inc. offers reliable tree risk assessment services to protect your property and ensure the safety of your community.",
+        "process": [
+          "Step 1: Visual Inspection - We conduct a thorough visual inspection of the tree from the ground.",
+          "Step 2: Hazard Identification - We identify any potential hazards, such as dead branches, cracks, or root decay.",
+          "Step 3: Risk Assessment - We assess the likelihood of tree failure and the potential consequences.",
+          "Step 4: Report & Recommendations - We provide a detailed report with clear recommendations for mitigating risks."
+        ],
+        "benefits": [
+          "Identifies potential tree hazards",
+          "Assesses tree health and structure",
+          "Provides recommendations for mitigating risks",
+          "Protects property and ensures safety"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have a tree risk assessment?",
+            "answer": "It's recommended to have a tree risk assessment every 1-3 years, especially for mature trees or trees in high-traffic areas."
+          },
+          {
+            "question": "What are the signs of a hazardous tree?",
+            "answer": "Signs of a hazardous tree include dead branches, cracks in the trunk, root decay, and leaning or unstable structure."
+          },
+          {
+            "question": "Can you prevent a tree from falling?",
+            "answer": "While we can't guarantee that a tree will never fall, we can take measures to mitigate risks and improve the tree's stability through pruning, cabling, or bracing."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "D & A Tree Service Inc is proud to offer comprehensive tree removal services to the residents and businesses of Bakersfield, California. With years of experience serving the Kern County area, our team is equipped to handle any tree-related challenge, from routine pruning to emergency tree removal. We understand the unique needs of Bakersfield's landscape and are committed to providing safe, efficient, and environmentally responsible tree care solutions.\n\nOur Bakersfield tree service offerings include tree removal, tree trimming, stump grinding, emergency tree services, and land clearing. We prioritize safety and adhere to the highest industry standards, ensuring the protection of your property and our crew. D & A Tree Service Inc is licensed and insured for your peace of mind. We provide free estimates and are dedicated to exceeding your expectations with top-notch service.",
+        "localContext": "Bakersfield, a city known for its agricultural roots and vibrant community, experiences hot summers and mild winters, which can impact tree health and growth.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "D & A Tree Service Inc extends its expert tree removal and maintenance services to Oildale, CA. We understand the specific needs of Oildale's residential and commercial properties when it comes to tree care. Our team is dedicated to providing safe, efficient, and affordable services to the Oildale community.\n\nWhether you need a hazardous tree removed, routine pruning to maintain tree health, or stump grinding to reclaim your yard, D & A Tree Service Inc has you covered. We are committed to preserving the beauty and safety of Oildale's landscape, one tree at a time. Contact us today for a free estimate.",
+        "localContext": "Oildale, a close-knit community near Bakersfield, experiences similar climate patterns, requiring specialized tree care to address drought conditions and potential pest infestations.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "Residents and businesses in Rosedale, CA, can rely on D & A Tree Service Inc for all their tree care needs. We offer a full range of services, including tree removal, trimming, stump grinding, and emergency services. Our experienced team is committed to providing prompt, professional, and reliable service to ensure the health and safety of your trees and property.\n\nWith our commitment to environmentally responsible practices, we strive to minimize our impact on the environment while delivering exceptional tree care solutions. D & A Tree Service Inc is dedicated to serving the Rosedale community with integrity and expertise. We are fully licensed and insured.",
+        "localContext": "Rosedale, a growing community northwest of Bakersfield, benefits from tree services that address the needs of both established and newly planted trees.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Oildale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "D & A Tree Service Inc is proud to serve the community of Shafter, CA, with top-quality tree removal and maintenance services. We understand the importance of healthy, well-maintained trees for the beauty and value of your property. Our team is dedicated to providing safe, efficient, and affordable services to the Shafter community.\n\nFrom routine tree trimming to hazardous tree removal, D & A Tree Service Inc has the expertise and equipment to handle any job. We are committed to preserving the natural beauty of Shafter's landscape, while ensuring the safety of your property and our crew. Contact us today for a free consultation and let us help you with all your tree care needs.",
+        "localContext": "Shafter, known for its agricultural heritage, requires tree services that understand the specific challenges of maintaining trees in an arid climate.",
+        "nearbyAreas": [
+          "Wasco",
+          "Rosedale",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "D & A Tree Service Inc provides professional tree services to Wasco, CA. We understand the unique needs of Wasco's residential and commercial properties when it comes to tree care. Our team is dedicated to providing safe, efficient, and affordable services to the Wasco community.\n\nWe offer a comprehensive range of tree services, including tree removal, trimming, stump grinding, and emergency services. We are committed to preserving the beauty and safety of Wasco's landscape, one tree at a time.",
+        "localContext": "Wasco's location in the San Joaquin Valley means that trees require special attention during the hot summer months.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "D & A Tree Service Inc is dedicated to providing expert tree care to the residents and businesses of Lamont, CA. We offer a range of services, including tree removal, trimming, and stump grinding, all performed with safety and efficiency in mind. Our team is committed to ensuring the health and beauty of Lamont's trees.\n\nWe understand the importance of proper tree maintenance for the overall health of your landscape. Whether you need routine pruning or emergency tree removal, D & A Tree Service Inc is here to help. Contact us today for a free estimate and experience the difference our expertise can make.",
+        "localContext": "Lamont, a community southeast of Bakersfield, experiences conditions that can affect tree health, making skilled tree services essential.",
+        "nearbyAreas": [
+          "Arvin",
+          "Bakersfield",
+          "Weedpatch"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "D & A Tree Service Inc is proud to offer comprehensive tree care services to the community of Arvin, CA. We understand the importance of healthy, well-maintained trees for the beauty and value of your property. Our team is dedicated to providing safe, efficient, and affordable services to the Arvin community.\n\nFrom routine tree trimming to hazardous tree removal, D & A Tree Service Inc has the expertise and equipment to handle any job. We are committed to preserving the natural beauty of Arvin's landscape, while ensuring the safety of your property and our crew.",
+        "localContext": "Arvin, located in the southern San Joaquin Valley, experiences hot, dry summers, which require specific tree care strategies.",
+        "nearbyAreas": [
+          "Lamont",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Tehachapi",
+        "slug": "tehachapi-ca",
+        "state": "CA",
+        "content": "D & A Tree Service Inc extends its professional tree care services to Tehachapi, CA. We understand the unique challenges of maintaining trees in the Tehachapi area, with its varied climate and terrain. Our team is committed to providing safe, efficient, and reliable services to the community.\n\nWhether you need tree removal, trimming, stump grinding, or emergency services, D & A Tree Service Inc has the expertise and equipment to handle any job. We are dedicated to preserving the beauty and health of Tehachapi's trees while ensuring the safety of your property.",
+        "localContext": "Tehachapi's high-altitude environment and distinct seasons require specialized tree care knowledge and techniques.",
+        "nearbyAreas": [
+          "California City",
+          "Mojave",
+          "Rosamond"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Tree Removal",
+        "text": "D & A Tree Service removed a large, dying oak tree from my backyard. They were professional, efficient, and cleaned up everything perfectly. I was impressed with their attention to safety and would definitely recommend them!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Stump Grinding",
+        "text": "I had two old stumps in my front yard that were an eyesore. D & A Tree Service came out and ground them down quickly and effectively. The price was fair, and they did a great job filling in the holes. My only minor complaint is that I wish they had raked the area a little better afterward, but overall a solid job.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Susan L.",
+        "rating": 5,
+        "service": "Tree Trimming",
+        "text": "D & A Tree Service trimmed the trees in my front yard. They were very knowledgeable and did a great job of shaping the trees and removing dead branches. My trees look healthier and more beautiful now!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 5,
+        "service": "Emergency Tree Service",
+        "text": "A large branch fell on my roof during a windstorm. D & A Tree Service responded quickly and removed the branch safely. I was so grateful for their prompt and professional service!",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jennifer P.",
+        "rating": 4,
+        "service": "Land Clearing",
+        "text": "D & A Tree Service cleared a lot for my new home construction. They were efficient and professional, and they left the site clean and ready for building. I would recommend them to anyone needing land clearing services.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Mike S.",
+        "rating": 5,
+        "service": "Tree Risk Assessment",
+        "text": "I was concerned about a large tree in my backyard that looked like it might be unstable. D & A Tree Service came out and did a thorough risk assessment. They identified some potential problems and recommended a course of action. I feel much better knowing that my tree is safe now.",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "D & A Tree Service | Bakersfield, CA",
+        "description": "Reliable tree removal, trimming, and emergency services in Bakersfield. Licensed & insured. Free quotes!"
+      },
+      "about": {
+        "title": "About D & A Tree Service Inc.",
+        "description": "Learn about our commitment to safe, affordable, and professional tree care in Bakersfield, CA."
+      },
+      "services": {
+        "title": "D & A Tree Service | Tree Services",
+        "description": "Comprehensive tree services: removal, trimming, stump grinding, emergency service, & more in Bakersfield."
+      },
+      "contact": {
+        "title": "Contact D & A Tree Service",
+        "description": "Get a free estimate for tree removal or other services in Bakersfield. Call us today!"
+      },
+      "reviews": {
+        "title": "D & A Tree Service Reviews",
+        "description": "See what our Bakersfield customers are saying about our tree removal and trimming services."
+      },
+      "service-areas": {
+        "title": "D & A Tree Service Areas",
+        "description": "Tree removal service areas in Bakersfield and surrounding cities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "tree-removal": "/images/service-tree-removal.webp",
+      "stump-grinding": "/images/service-stump-grinding.webp",
+      "tree-trimming": "/images/service-tree-trimming.webp",
+      "emergency-tree-service": "/images/service-emergency-tree-service.webp",
+      "land-clearing": "/images/service-land-clearing.webp",
+      "tree-risk-assessment": "/images/service-tree-risk-assessment.webp"
+    },
+    "servicesResponsive": {
+      "tree-removal": {
+        "src": "/images/service-tree-removal.webp",
+        "srcset": "/images/service-tree-removal-400w.webp 400w, /images/service-tree-removal-800w.webp 800w, /images/service-tree-removal-1200w.webp 1200w, /images/service-tree-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stump-grinding": {
+        "src": "/images/service-stump-grinding.webp",
+        "srcset": "/images/service-stump-grinding-400w.webp 400w, /images/service-stump-grinding-800w.webp 800w, /images/service-stump-grinding-1200w.webp 1200w, /images/service-stump-grinding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-trimming": {
+        "src": "/images/service-tree-trimming.webp",
+        "srcset": "/images/service-tree-trimming-400w.webp 400w, /images/service-tree-trimming-800w.webp 800w, /images/service-tree-trimming-1200w.webp 1200w, /images/service-tree-trimming.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-tree-service": {
+        "src": "/images/service-emergency-tree-service.webp",
+        "srcset": "/images/service-emergency-tree-service-400w.webp 400w, /images/service-emergency-tree-service-800w.webp 800w, /images/service-emergency-tree-service-1200w.webp 1200w, /images/service-emergency-tree-service.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "land-clearing": {
+        "src": "/images/service-land-clearing.webp",
+        "srcset": "/images/service-land-clearing-400w.webp 400w, /images/service-land-clearing-800w.webp 800w, /images/service-land-clearing-1200w.webp 1200w, /images/service-land-clearing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-risk-assessment": {
+        "src": "/images/service-tree-risk-assessment.webp",
+        "srcset": "/images/service-tree-risk-assessment-400w.webp 400w, /images/service-tree-risk-assessment-800w.webp 800w, /images/service-tree-risk-assessment-1200w.webp 1200w, /images/service-tree-risk-assessment.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
